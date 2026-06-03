@@ -13,13 +13,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20markdown-live-previewer%20%F0%9F%9A%80;%3E%20Built%20using%20CSS%20%7C%20Optimized%20%26%20Secure;%3E%20A%20premium%2C%20real-time%20side-by-side%20Markdo...)](https://github.com/VarshuAi/markdown-live-previewer)
+<a href="https://github.com/VarshuAi/markdown-live-previewer"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20markdown-live-previewer%20%F0%9F%9A%80;%3E%20Built%20using%20CSS%20%7C%20Optimized%20%26%20Secure;%3E%20A%20premium%2C%20real-time%20side-by-side%20Markdo..." alt="Typing SVG"/></a>
 
 <br/>
 
-![Version](https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black)
-![Language](https://img.shields.io/badge/CSS-Tech-00CC66?style=for-the-badge&logo=css&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Version"/>
+<img src="https://img.shields.io/badge/CSS-Tech-00CC66?style=for-the-badge&logo=css&logoColor=black" alt="Language"/>
+<img src="https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white" alt="Status"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:002E1A,70:001A0D,100:000000&height=60&section=header&text=&fontSize=0" width="100%"/>
 
@@ -57,12 +57,9 @@ primary_tech: CSS
 <samp>&nbsp;FEATURES</samp>
 </h2>
 
-- **🎨 Futuristic Glassmorphism Design:** Beautiful dark mesh layouts using pure CSS HSL blends and Inter typographic grids.
-- **⚡ Complete Inline Logic:** Written entirely in vanilla, zero-dependency JavaScript.
-- **📱 Fully Responsive Layout:** Adapts beautifully across mobile viewports, tablets, and desktop monitor displays.
-- **🔒 Private & Secure:** Built 100% client-side with persistent LocalStorage integration.
-
----
+- ⚡ **Optimized Operations** — Engineered for performance and stability.
+- 🎨 **Sleek Interface & Theme** — Built using VarshuAi standard aesthetics.
+- 🔒 **Zero-Dependency Core** — Minimal setup complexity.
 
 <!-- ============================== COMMANDS ============================== -->
 
@@ -84,11 +81,13 @@ cd markdown-live-previewer
 <samp>&nbsp;TECH STACK</samp>
 </h2>
 
-- **Markup & Framework:** HTML5 Semantic Layouts
-- **Styling Sheet:** Pure Vanilla CSS3 Custom Variables + Frosted Glass backdrops
-- **App Logic:** High-Performance JavaScript (ES6)
+<div align="center">
 
----
+#### `>> SYSTEM INVENTORY`
+![CSS](https://img.shields.io/badge/CSS-Primary_Language-00FF88?style=for-the-badge&logoColor=black)
+![Git](https://img.shields.io/badge/Git-VCS-00CC66?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 <!-- ============================== SETUP ============================== -->
 
@@ -97,14 +96,14 @@ cd markdown-live-previewer
 <samp>&nbsp;SETUP</samp>
 </h2>
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/VARSHAN69/markdown-live-previewer.git
-   cd markdown-live-previewer
-   ```
+```bash
+# 1. Clone repository remote
+git clone https://github.com/VarshuAi/markdown-live-previewer.git
+cd markdown-live-previewer
 
-2. **Run locally:**
-   Simply open `index.html` in any web browser, or launch via Live Server inside VS Code.
+# 2. Check technical prerequsites
+# Ensure runtime matches requirements (CSS)
+```
 
 <!-- ============================== STRUCTURE ============================== -->
 
@@ -130,12 +129,12 @@ markdown-live-previewer/
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite.)](https://github.com/VarshuAi)
+<a href="https://github.com/VarshuAi"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite." alt="Typing SVG"/></a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi)
-[![Repo](https://img.shields.io/badge/markdown-live-previewer-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi/markdown-live-previewer)
+<a href="https://github.com/VarshuAi"><img src="https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile"/></a>
+<a href="https://github.com/VarshuAi/markdown-live-previewer"><img src="https://img.shields.io/badge/markdown-live-previewer-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black" alt="Repository"/></a>
 
 <br/>
 
