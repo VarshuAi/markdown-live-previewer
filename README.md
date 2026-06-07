@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  A premium, real-time side-by-side Markdown editor and HTML renderer.
+  name: markdown-live-previewer version: 1.0 type: Repository author: VarshuAi description: >   A premium, real-time side-by-side Markdown editor and HTML renderer. primary_tech: CSS
 primary_tech: CSS
 ```
 
